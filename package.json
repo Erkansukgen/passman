@@ -20,7 +20,7 @@
     "grunt-karma": "^4.0.0",
     "grunt-mkdir": "^1.1.0",
     "grunt-replace": "^2.0.1",
-    "html-minifier": "^3.0.2",
+    "html-minifier": "^4.0.0",
     "jasmine-core": "2.5.2",
     "jshint-stylish": "^2.2.1",
     "karma": "^6.2.0",
