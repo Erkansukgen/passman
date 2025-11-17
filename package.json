@@ -16,7 +16,7 @@
     "grunt-contrib-sass": "^2.0.0",
     "grunt-contrib-uglify": "^5.0.0",
     "grunt-contrib-watch": "^1.1.0",
-    "grunt-html2js": "^0.8.0",
+    "grunt-html2js": "^0.9.0",
     "grunt-karma": "^4.0.0",
     "grunt-mkdir": "^1.1.0",
     "grunt-replace": "^2.0.1",
